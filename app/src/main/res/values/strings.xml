@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UPSProject</string>
+    <string name="promo_title">ПРОМОКОД</string>
+    <string name="promo_hint">Промокод</string>
+    <string name="promo_btn">АКТИВИРОВАТЬ</string>
+    <string name="enter_promo">Введите промокод</string>
+</resources>
